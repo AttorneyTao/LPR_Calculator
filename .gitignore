@@ -1,1 +1,16 @@
 LICENSES/
+.git/
+.reuse/
+res.xlsx
+build/
+dist/
+main.spec
+使用说明.docx
+~$使用说明.docx
+*.aip
+LPR_Calculator-SetupFiles/
+LPR_Calculator-cache
+LPR_Calculator.zip
+readme.pdf
+main.exe
+__pycache__/
